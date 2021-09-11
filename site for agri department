@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+         Agriculture department 
+        </title>
+        <style>
+            ul{
+                list-style-type: none;
+                background-color: rgb(69, 133, 27);
+                color: rgb(255, 253, 253);
+                padding: 15px;
+            
+            }
+            li{
+                display: inline;
+                
+                margin: 18px;
+                font-size: 18px;
+               
+                
+            }
+            h1,h3{
+                text-align: center;
+            }
+            p{text-align: justify;
+                font-size: 17px;
+                color: rgb(0, 0, 0);
+                
+            
+            }
+            button{margin-left: 47%;}
+            td{font-size: 18px;}
+            a{ text-decoration: none;
+            color: white;}
+            td:hover{
+                background-color: rgb(150, 167, 118);
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div style="background-image:url(image/39.jpg); background-size: cover;" id="home">
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#pro">Our Product</a></li>
+            <li>Our Services</li>
+        </ul>
+        <br>
+        <h1> WELCOME TO OUR WEBSITE</h1><br>
+        <h3>Agriculture department </h3>
+        <br>
+        <p>
+            With 250 million people speaking Portuguese either as a mother tongue or second language, having the Access Agriculture platform in Portuguese is an important milestone. About 211 million people speak the language in Brazil, but Portuguese is also an official language in six African countries: Angola, Cape Verde, Equatorial Guinea, Guinea-Bissau, Mozambique and São Tomé and Príncipe. Our South-South learning approach is further strengthened with this new site,” asserts Josephine Rodgers, Executive Director of Access Agriculture.  “We know farmers learn from each other and our aim is to increase the number of videos to help those smallholder farmers who speak Portuguese.”
+        </p>
+        <p>
+            Our South-South learning approach is further strengthened with this new site,” asserts Josephine Rodgers, Executive Director of Access Agriculture.  “We know farmers learn from each other and our aim is to increase the number of videos to help those smallholder farmers who speak Portuguese. Our South-South learning approach is further strengthened with this new site,” asserts Josephine Rodgers, Executive Director of Access Agriculture.  “We know farmers learn from each other and our aim is to increase the number of videos to help those smallholder farmers who speak Portuguese.”
+        </p>
+        <br>
+       
+        <button onclick=" https://www.accessagriculture.org/access-agriculture-platform-now-portuguese"> show more</button>
+        <br>
+        <br>
+            </div>
+            <hr>
+            <div style="background-color: rgb(247, 248, 248);" id="about">
+                <h1 style="color: rgb(9, 102, 22);">
+                    Demo farms worldwide: For research, training & global food security
+                </h1>
+                <h3>
+                    With your help Salt Farm Foundation can help small-holder farmers and improve global food security by setting up demo farms worldwide
+                </h3>
+                <img src="image/39_1.jpg" height="15%" width="100%">
+            </div>
+            <hr>
+            <div id="pro">
+                <h1> OUR SERVICE </h1>
+                <table>
+                    <tr>
+                        <td>
+                            <img src="image/39_2.jpg" height="400px" width="600px">
+
+                        </td>
+                        
+                        <td>
+                            2018 was an exceptional year, where many countries in Europe went from water surplus to water shortage situation, from green fields to brown patches of soil. Imagine living in a country where you have to deal with this on a daily basis,  there are many such areas around the world experiencing similar circumstances year after year, which threatens the food security and livelihood of many small-holder farmers and people who depend on them for food intake. 
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Climate change is happening at a rapid pace, factors such as salinization are forcing the farmers to abandon their farmland and make them move to urban areas looking for job opportunities. This internal migration will cause urban areas to become more congested and the countries will lose their self-sufficiency in food production, since small-holder farmers produce 80% of the food in developing countries.
+
+                        </td>
+                        <td>
+                            <img src="image/39_3.jpg" height="350px" width="700px">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="image/39_4.jpg" height="400px" width="550px">
+
+
+                        </td>
+                        <td>
+                            We, the Salt Farm Foundation, want to prepare farmers to adapt to the climate change by equipping them with the knowledge of saline-agriculture and together contribute to the global food security while improving their complete livelihood at the same time. Our knowledge centre is an initiative that has been established to develop and export our knowledge on saline agriculture as a solution for world food and water scarcity.
+
+
+                            
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div style="background-color: white; text-align: center;">
+                <ul>
+                    <li><img src="image/38_1.png" width="50px" height="40px"></li>
+                    <li><img src="image/face.jpg" width="50px" height="45px"></li>
+                    <li><img src="image/38_3.png.crdownload" width="50px" height="45px"></li>
+                </ul>
+            </div>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{background-color: rgb(255, 208, 0); color: darkred;text-align: center;}
+            p{font-size: 22px;}
+            img{width: 200px;height: 200px;}
+        </style>
+    </head>
+    <body>
+        <h1>Emojies</h1>
+        <p><img src="image/emo1.gif" alt="emoji1" style="float: left;"> An emoji (/ɪˈmoʊdʒiː/ i-MOH-jee; plural emoji or emojis[1]) is a pictogram, logogram, ideogram or smiley used in electronic messages and web pages. The primary function of emojis is to fill in emotional cues otherwise missing from typed conversation.[2] Some examples of emojis are 😃, 🧘🏻‍♂️, 🌍, 🍞, 🚗, 📞, 🎉, ❤️, 🍆, and 🏁. Emojis exist in various genres, including facial expressions, common objects, places and types of weather, and animals. They are much like emoticons, but emojis are pictures rather than typographic approximations; the term "emoji" in the strict sense refers to such pictures which can be represented as encoded characters, but it is sometimes applied to messaging stickers by extension.[3] Originally meaning pictograph, the word emoji comes from Japanese e (絵, 'picture') + moji (文字, 'character'); the resemblance to the English words emotion and emoticon is purely coincidental.[4] The ISO 15924 script code for emoji is Zsye</p>
+        <p><img src="image/emo2.gif"  style="float:right;"> Originating on Japanese mobile phones in 1997, emojis became increasingly popular worldwide in the 2010s after being added to several mobile operating systems.[5][6][7] They are now considered to be a large part of popular culture in the West and around the world.[8][9] In 2015, Oxford Dictionaries named the Face with Tears of Joy emoji (😂) the word of the year.[10][11] </p>
+    </body>
+</html>

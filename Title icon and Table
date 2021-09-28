@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" href="image/20.png">
+        <style>
+            td{text-align: center; height: 30px; border: 1px solid black;}
+            th,table{border: 1px solid black}
+        </style>
+    </head>
+    <body>
+        <h2 style="text-align: left; background-color: black; color: blanchedalmond;">Cars With Producers </h2>
+        <table style="width: 50%;">
+            <tr>
+                <th>Cars</th>
+                <th>Country</th>
+            </tr>
+            <tr>
+                <td>
+                    SNV
+                </td>
+                <td>
+                    Algeria
+                </td>
+            </tr>
+            <tr>
+                <td>BAIC</td>
+                <td>China</td>
+            </tr>
+            <tr>
+                <td>Bajaj Auto</td>
+                <td>India</td>
+            </tr>
+            <tr>
+                <td>PinDad</td>
+                <td>Indonesia</td>
+            </tr>
+            <tr>
+                <td>Honda</td>
+                <td>Japan</td>
+            </tr>
+        </table>
+        
+    </body>
+
+</html>

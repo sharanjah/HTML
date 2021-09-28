@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h1>
+            IDM Nations Campus 
+        </h1>
+        <h3>Departments</h3>
+        <ul>
+            <li>Computing Department</li>
+            <li>anagement Department</li>
+            <li>Law Depatment</li>
+            <li>Teacher Education</li>
+            <li> English Department </li>
+        </ul>
+        <h3>Branches</h3>
+        <ol>
+            <li>Vavuniya Branch</li>
+            <li>Mannar Branch</li>
+            <li>Wattala Branch</li>
+            <li> Trincomale Branch</li>
+            <li>Jaffna Branch</li>
+        </ol>
+
+        <h3>Course Description</h3>
+        <dl>
+            <dt>Certificate in Computer Application</dt>
+            <dd> It provides Basic Fundamental Knowledges</dd>
+            <dt>Certifcate in Web Designing</dt>
+            <dd> Which provides the fundamental Knowledge in Web designing</dd>
+            <dt>Diploma In computing</dt>
+            <dd> Computing diploma level course</dd>
+        </dl>
+
+    </body>
+</html>

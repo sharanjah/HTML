@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            td{ border-bottom: rgb(36, 1, 24) 2px solid; }
+            td:hover{ background-color: rgb(2, 17, 44); color: white;
+
+            }
+            h1:hover{color:rgb(175, 74, 175);}
+            
+        </style>
+    </head>
+
+    
+    <body>
+        <h1 style="text-align: center;"> CV Resources</h1><hr>
+        <table style="font-size: 15px;">
+        <tr>
+            <td style="background-color: plum;" rowspan="5">
+               <h5> What’s the Difference Between a CV and a Resume?</h5> If you ask a European, the answer is that the two (for most people) are the same thing. The term “resume” is more popular in the US, while “CV” is a lot more commonplace in Europe. In the US, however, a CV sometimes refers to an academic CV - pretty much the same thing as a resume, but a lot more comprehensive. While a resume is short (one, two pages max) and comprehensive (only the relevant experience), an academic CV can be as many pages as you need, covering everything you’ve ever done in your career. Now, you’re probably wondering, are these CV templates the same as the resume template ones, or are they for academic CVs? The answer is both - you can use our templates for both purposes! If you’re looking for an academic CV, just add more pages. If you’re looking for a traditional CV, just stick to the one-page limit. For more on the CV vs Resume topic, check out ou
+            </td>
+            <td> <h5>How to Write a CV?</h5>
+                There’s a lot that goes into writing a good curriculum vitae, but here’s a quick summary:
+                
+                Pick a Curriculum Vitae template that works for you. Applying for a creative position? Pick a creative CV template. Looking to work in a bank? Go for a professional CV template.</td>
+                <td><h5>What to Include in a CV?</h5>
+                    The most common sections that go on a CV are the following:
+                    
+                    Contact Information - Your contact info. This includes email, name, professional title, and social profiles.
+                    
+                    Resume Summary (or Resume Objective) - You can look at the resume summary as an introduction to your resume. It’s a small paragraph (2-4 sentences) that goes on top of your CV and gives a snapshot of your work history. </td>
+        </tr>
+        <tr>
+         <td><h5>How Long Should a CV Be? </h5>
+            The answer to this, of course, depends on what kind of Curriculum Vitae you’re talking about. If by CV you mean the same thing as a resume, it should be 1 page, 2 pages max.
+            
+            If, on the other hand, you want to create an academic CV, then it can be as many pages as you need it to be!</td>
+           <td> What’s the Best CV Template?
+Spoiler: there’s no such thing as the “best cv template.” There’s no “best CV” either.
+
+Everything related to CVs is highly subjective. One recruiter might LOVE your creative resume template, another might think it’s super tacky.
+
+So, how do you pick the best CV template for the job YOU’RE applying for? Our rule of thumbs is:
+
+Are you applying for a company that values innovation and creativity? Pick a creative curriculum vitae template.
+
+Applying for a more conservative company? E.g. bank, law firm, etc. Pick a more professional CV template.
+
+Does the company you’re applying for fall somewhere between the two types we mentioned? Then pick a modern or simple CV template.</td>
+        </tr>
+        </table>
+    </body>
+</html>

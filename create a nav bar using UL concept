@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<style>
+ ul{ background-color: rgb(59, 56, 56);
+
+list-style-type: none;
+padding: 10px;}
+
+li{ 
+    display:inline;
+    margin: 10px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond; 
+}
+    
+</style>
+    </head>
+    <body>
+        <h1 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        BCS Schooling Anywhere</h1>
+        <ul>
+            <li><a href="1.html">Home</a></li>
+            <li><a href="2.html">Contact</a></li>
+            <li><a href="3.html">About</a></li>
+            <li><a href="4.html">Services</a></li>
+        </ul>
+        <br>
+        <p style="font-size: 14px; color: black; text-align: center; font-family:Verdana, Geneva, Tahoma, sans-serif;">BCS Schooling Anywhere is an online platform in Sri Lanka which provides easy online learning methods for all students as well as teachers along with the goals of encouraging and developing individuals well rounded, successful and confident in the society. This includes five different institutions in various aspects, such as preschool, high school classes, higher education (diploma, advanced diploma, Undergraduate, Post-graduate courses) and beauty culture courses offering internationally and locally recognized programmes with valued certificates. This not just for Sri Lankans, students can join with us and learn from all over the world. We are equipped with excellent and qualified academic staffs, favorable and student-friendly learning methods with the most advanced facilities to give you the best learning experience. We thank you for taking the time to consider BCS schooling anywhere as your study option. Our team looks forward to welcome you and we know that you will have a pleasant, enjoyable, challenging and successful journey with us</p>
+       <div style="margin-left: 47%;"> <button onclick="document.location='https://bcs.schoolinganywhere.com/login/index.php'" style=" width: 100px; height: 40px; background-color: black; color: blanchedalmond;">Login</button></div>
+    </body>
+</html>

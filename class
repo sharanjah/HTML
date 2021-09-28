@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .head{font-family: sans-serif; color: rgb(34, 34, 134); text-align: center; }
+            .div{background-color: rgb(245, 193, 175); font-size: 18px;padding: 15px; }
+           
+        </style>
+    </head>
+    <body>
+        <h2 class="head">COVID-19 vaccines: everything you need to know</h1>
+        <div class="div">
+            <p>
+                Now that COVID-19 vaccines have reached billions of people worldwide, the evidence is overwhelming that no matter which one you take, the vaccines offer life-saving protection against a disease that has killed millions. The pandemic is far from over, and they are our best bet of staying safe.
+            </p>
+        </div>
+        <h2 class="head">Frequently asked questions about COVID-19 vaccines</h1>
+        <h3>WHAT ARE THE DIFFERENT TYPES OF COVID-19 VACCINES?</h3>
+        <div class="div">
+            <p>
+                There are four types of vaccines in clinical trials: whole virus, protein subunit, viral vector and nucleic acid (RNA and DNA), each of which protects people, but by producing immunity in a slightly different way.
+            </p>
+        </div>
+        <h3>
+            How safe are COVID-19 vaccines?
+        </h3>
+        <div class="div">
+            <p>
+                Despite the record speed at which they have been developed, COVID-19 vaccines have still been subject to the same checks, balances, and scientific and regulatory rigour as any other vaccine, and shown to be safe
+            </p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h2 style="text-align: center;">
+            IDM Nations Campus Vavuniya Branch
+        </h2>
+        <ul style="list-style-type: square; background-color: rgb(4, 4, 75); color: white;">
+            <li>Computing Department</li>
+            <ul style="list-style-type: circle; background-color: rgb(100, 100, 218);">
+                <li>Certificate in Web designing</li>
+                <li>computing</li>
+                <ul style="list-style-type: disc; background-color: white; color: black;">
+                    <li>Diploma</li>
+                    <li>International Higher Diploma</li>
+                </ul>
+                <li>Diploma in coreldraw</li>
+            </ul>
+            <li>Management Department</li>
+            <ul style="list-style-type: circle; background-color: rgb(100, 100, 218);">
+                <li> Diploma in Human Resources</li>
+                <li>Diploma in Marketing</li>
+            </ul>
+            <li>Law Depatment</li>
+            <li>Teacher Education</li>
+            <li> English Department </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{font-family: 'Times New Roman', Times, serif;background-color: red; text-align: center;color: white;}
+            div{background-image:url(image/192.jpg);
+                background-repeat: repeat;
+                background-size: cover;
+                font-size: 25px;}
+            p{background-image:url(image/19.png);
+                background-repeat: repeat;
+                background-size: cover;
+                font-size: 25px;}
+        </style>
+
+    </head>
+    <body>
+        <h1>BODY Mass Index</h1>
+        <div>
+            Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms and height in metres.<br>
+
+The BMI may be determined using a table[a] or chart which displays BMI as a function of mass and height using contour lines or colours for different BMI categories, and which may use other units of measurement (converted to metric units for the calculation).[b]<br>
+
+The BMI is a convenient rule of thumb used to broadly categorize a person as underweight, normal weight, overweight, or obese based on tissue mass (muscle, fat, and bone) and height. Major adult BMI classifications are underweight (under 18.5 kg/m2), normal weight (18.5 to 24.9),<br> overweight (25 to 29.9), and obese (30 or more).[1] When used to predict an individual's health, rather than as a statistical measurement for groups, the BMI has limitations that can make it less useful than some of the alternatives, especially when applied to individuals with abdominal obesity, short stature, or unusually high muscle mass.<br>
+
+
+        </div>
+        <h1>Healthy Food</h1>
+        <p>
+            Vegetables and any subgroup such as beans, peas, starches, and those that are dark green, red or orange in color.
+<br>Whole fruits.
+Whole grains such as quinoa, corn, millet, and brown rice.<br>
+Limited full-fat dairy.<br>
+A variety of protein such as lean meats, eggs, nuts, seeds, and soy products.
+        </p>
+
+    </body>
+</html>

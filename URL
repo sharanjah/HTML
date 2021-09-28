@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <link rel="stylesheet" href="14.css">
+    </head>
+    <body>
+      <h1>Absolute URL</h1>
+      <a href="10.html" target="_blank"> HTML colors</a>
+      <h1>Relative URL</h1>
+      <a href="https://www.idmedu.lk/" target="_blank">IDM Nations Campus</a>
+      <h1>Image as Link</h1>
+      <a href="https://www.idmedu.lk/" target="_blank">
+      <img src="image/idm.jpg" alt="idm" style="width: 100px; height: 70px;">
+      </a>
+    </body>
+</html>
